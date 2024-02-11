@@ -74,7 +74,7 @@ export default function Navbar({}): any {
         <SheetContent>
           <SheetHeader>
             <SheetDescription>
-              <section className="flex flex-col justify-between h-screen py-20">
+              <section className="flex flex-col justify-between h-screen py-40">
                 <div className="w-full space-y-3">
                   <Link href="/">
                     <Button
