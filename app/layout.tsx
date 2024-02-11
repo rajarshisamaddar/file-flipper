@@ -9,7 +9,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "FileFlipper: Unlimited, Data-Saving File Converter",
-  description: `Convert files effortlessly with FileFlipper using client-side FFmpeg. Enjoy unlimited transformations while prioritizing data savings. Elevate your content securely and efficiently. Start converting now!`,
+  description:
+    "Convert files effortlessly with FileFlipper using client-side FFmpeg. Enjoy unlimited transformations while prioritizing data savings. Elevate your content securely and efficiently. Start converting now!",
   creator: "Rajarshi Samaddar",
   keywords:
     "FileFlipper, file converter, secure conversion, unlimited conversions, data-saving converter, client-side FFmpeg",
