@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "Convert files effortlessly with FileFlipper using client-side FFmpeg. Enjoy unlimited transformations while prioritizing data savings. Elevate your content securely and efficiently. Start converting now!",
   creator: "Rajarshi Samaddar",
   keywords:
-    "FileFlipper, file converter, secure conversion, unlimited conversions, data-saving converter, client-side FFmpeg",
+    "FileFlipper, file converter, secure conversion, unlimited conversions, data-saving converter, client-side FFmpeg, free file converter, file transformation, file conversion, file format conversion, file format transformation, file format converter, file type conversion, file type transformation, file type converter, file extension conversion, file extension transformation, file extension converter",
 };
 
 export default function RootLayout({
