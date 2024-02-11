@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# File Flipper
+
+Welcome to File Flipper, your go-to solution for seamless and free multimedia file conversion!
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+File Flipper is a client-side file converter built with the power of FFmpeg to ensure secure and efficient multimedia file conversions. Whether you need to resize images, convert audio formats, or edit videos, File Flipper provides a user-friendly interface for a variety of file manipulation tasks.
+
+## Features
+
+- **Image Conversion:** Resize, crop, rotate, and convert image formats effortlessly.
+- **Audio Transformation:** Convert audio files between various formats, adjust bitrates, and merge audio files.
+- **Video Metamorphosis:** Edit and transcode videos, change video formats, and cut/merge clips.
+- **Unlimited Usage:** Empower your creativity without hidden fees or restrictions. Convert as many files as you need.
+- **Accessible Anywhere:** Use File Flipper from any device with an internet connection.
+- **Secure and Private:** Your multimedia files are treated with the utmost care, prioritizing privacy and data security.
+- **User-Friendly Interface:** Intuitive design for both beginners and experts. No technical expertise required.
+- **Constantly Evolving:** Expect regular updates and new features to enhance your multimedia experience.
 
 ## Getting Started
 
-First, run the development server:
+### Installation
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone the repository:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```bash
+   git clone https://github.com/rajrashisamaddar/file-flipper.git
+   ```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2. Navigate to the project directory:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+   ```bash
+    cd file-flipper
+   ```
 
-## Learn More
+3. Install pnpm (if not installed):
 
-To learn more about Next.js, take a look at the following resources:
+   ```bash
+   npm install -g pnpm
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. Install dependencies:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   ```bash
+   pnpm i
+   ```
 
-## Deploy on Vercel
+### Usage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1.  Start the development server:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    ```bash
+    pnpm dev
+    ```
+
+2.  Open your web browser and visit http://localhost:3000.
+
+3.  Begin using File Flipper for all your file conversion needs!
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Author
+
+File Flipper is created and maintained by [Rajarshi Samaddar](https://github.com/rajrashisamaddar).
+
+If you have any questions or suggestions, feel free to reach out via email: [itsrajarshi@gmail.com](mailto:itsrajarshi@gmail.com).
