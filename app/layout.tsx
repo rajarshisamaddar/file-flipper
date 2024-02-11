@@ -8,7 +8,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "FileFlipper: Secure, Unlimited, Data-Saving Converter",
+  title: "FileFlipper: Unlimited, Data-Saving File Converter",
   description: `Convert files effortlessly with FileFlipper using client-side FFmpeg. Enjoy unlimited transformations while prioritizing data savings. Elevate your content securely and efficiently. Start converting now!`,
   creator: "Rajarshi Samaddar",
   keywords:
