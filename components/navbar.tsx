@@ -48,10 +48,7 @@ export default function Navbar({}): any {
         </Link>
         <ThemeToggle />
       </div>
-      <Link
-        href="https://github.com/rajarshisamaddar/file-flipper"
-        target="_blank"
-      >
+      <Link href="https://github.com/rajarshisamaddar/" target="_blank">
         <Button
           variant="default"
           className="rounded-full w-fit bg-primary gap-2 items-center hidden md:flex"
@@ -74,7 +71,7 @@ export default function Navbar({}): any {
         <SheetContent>
           <SheetHeader>
             <SheetDescription>
-              <section className="flex flex-col items-center justify-center h-screen space-y-[30rem]">
+              <section className="flex flex-col items-center justify-center h-screen space-y-[15rem]">
                 <div className="w-full space-y-3">
                   <Link href="/">
                     <Button
@@ -104,7 +101,7 @@ export default function Navbar({}): any {
                 </div>
                 <div className="w-full flex justify-center">
                   <Link
-                    href="https://github.com/rajarshisamaddar/file-flipper"
+                    href="https://github.com/rajarshisamaddar/"
                     target="_blank"
                   >
                     <Button
