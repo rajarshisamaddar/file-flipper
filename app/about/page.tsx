@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <div className="space-y-8 text-md md:text-lg pb-4 md:pb-8">
-      <p className="text-sm">Last Updated: Sat 10 Feb 2024</p>
+      <p className="text-sm">Last Updated: Mon 12 Feb 2024</p>
       <p>
         Welcome to File Flipper, your gateway to limitless creativity! I'm
         excited to present a powerful multimedia conversion tool that empowers
