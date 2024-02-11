@@ -1,7 +1,7 @@
 export default function PrivacyPolicy() {
   return (
     <div className="space-y-8 text-md md:text-lg pb-4 md:pb-8">
-      <p className="text-sm">Effective Date: Sat 10 Feb 2024</p>
+      <p className="text-sm">Last Updated: Mon 12 Feb 2024</p>
       <p>
         Welcome to FileFlipper's Privacy Policy. Your privacy is a top priority
         for me. This policy outlines how I gather, utilize, and secure your
